@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "version": "1.0.1",
+      "classifier": "raml-fragment",
+      "assetId": "american-flight-data-type",
+      "groupId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+      "packaging": "zip",
+      "provided": false
+    }
+  ],
+  "version": "1.0.0",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "classifier": "raml",
+  "main": "raml- vcs-support.raml",
+  "assetId": "raml-vcs-support",
+  "groupId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "organizationId": "3cbbe9f3-c66b-4187-97cf-f07ee5f66c13",
+  "name": "raml- vcs-support"
+}

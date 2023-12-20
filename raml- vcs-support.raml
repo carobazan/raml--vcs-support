@@ -1,0 +1,11 @@
+#%RAML 1.0
+title: raml- vcs-support
+/test:
+    get:
+        responses:
+            200:
+                body:
+                    application/json:
+                        type: !include exchange_modules/3cbbe9f3-c66b-4187-97cf-f07ee5f66c13/american-flight-data-type/1.0.1/american-flight-data-type.raml
+
+                
